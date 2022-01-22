@@ -6,6 +6,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const firebaseApp = firebase.initializeApp({
+
   apiKey: "AIzaSyCkcXv-HUtI9IR20OtZtjhVEe83DbWilb4",
   authDomain: "blix-c9efc.firebaseapp.com",
   projectId: "blix-c9efc",
