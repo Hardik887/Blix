@@ -47,7 +47,7 @@ const ProfileScreen = () => {
                     <img src='https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png' alt='' />
                     <div className='profileScreen_details'>
                         <h2>{user.email}</h2>
-                        <div className='profileScreen_plans'>
+                        <div className='profileScreen_plans'> 
                             <h3>Plans</h3>
                             <p>Renewal Date: </p>
                             {/* <div className='profileScreen_plan'>
