@@ -6,6 +6,9 @@ import HomeScreen from './HomeScreen'
 import { auth } from './firebase'
 import UserContext from './UserContext'
 import ProfileScreen from './ProfileScreen'
+import dotenv from "dotenv";
+
+dotenv.config();
 
 function App() {
   const [user, setUser] = useState(null)
