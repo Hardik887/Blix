@@ -1,6 +1,5 @@
 {
-  "homepage": "http://mizanxali.github.io/netflix-clone",
-  "name": "netflix-clone",
+  "name": "blix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
